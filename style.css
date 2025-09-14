@@ -1,0 +1,39 @@
+body {
+    background-color: #ca78bf;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-card {
+    background-color: #e7b1f1;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px rgba(208, 0, 255, 0.1);
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+.form-label {
+    font-weight: 500;
+    color: #a249a2;
+    margin-bottom: .25rem;
+}
+
+.form-control:read-only {
+    background-color: #f0def4;
+}
+
+.card-header {
+    background-color: #eeb0f9;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    text-align: center;
+    padding: 1rem;
+}
+
+.section-title {
+    color: #c021ba;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
